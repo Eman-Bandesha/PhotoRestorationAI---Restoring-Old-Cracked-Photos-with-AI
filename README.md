@@ -1,2 +1,16 @@
-# PhotoRestorationAI---Restoring-Old-Cracked-Photos-with-AI
-An AI based solution to restore and enhance old, cracked, or damaged photos. This project aims to revive precious memories by using state-of-the-art image processing techniques, offering tools and models to remove cracks, scratches, and other imperfections, and bring new life to aged photographs.
+# PhotoRestorationAI - Restoring Old, Cracked Photos with Deep Learning
+
+## Overview
+PhotoRestorationAI is a deep learning-based application designed to restore and enhance old, cracked, or damaged photographs. This project uses state-of-the-art models and image processing techniques to identify and remove scratches, cracks, and other imperfections, bringing aged photos back to life.
+
+## Features
+- Scratch and crack detection.
+- High-quality LLAMA inpainting to fill in damaged regions.
+- Upscaling and color correction to improve photo quality.
+- Coloring image to look realistic using epic realism model
+
+## ComfyuI Workflow
+- Workflow 
+
+
+
