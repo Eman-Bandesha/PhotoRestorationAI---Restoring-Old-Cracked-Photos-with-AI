@@ -10,7 +10,12 @@ PhotoRestorationAI is a deep learning-based application designed to restore and 
 - Coloring image to look realistic using epic realism model
 
 ## ComfyuI Workflow
-- Workflow 
+- Workflow
+
+![Workflow](https://github.com/Eman-Bandesha/PhotoRestorationAI---Restoring-Old-Cracked-Photos-with-AI/blob/main/Screenshot%20from%202024-09-27%2012-01-22.png)
+
+## Contributors
+- [Eman Azam](https://github.com/Eman-Bandesha)
 
 
 
